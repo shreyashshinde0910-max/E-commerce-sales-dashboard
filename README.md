@@ -31,4 +31,9 @@ Explore profit, sales, and customer trends interactively
 
 Tools used: Power BI Desktop, DAX, Power Query
 
+Screenshots
+
+https://github.com/shreyashshinde0910-max/E-commerce-sales-dashboard/blob/main/ecommerce%20dashboard.png
+
+
 
